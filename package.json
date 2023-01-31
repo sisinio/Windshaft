@@ -32,7 +32,7 @@
     "dependencies": {
         "@carto/cartonik": "^0.9.1",
         "@carto/mapnik": "3.6.2-carto.16",
-        "canvas": "^2.4.1",
+        "canvas": "^2.11.0",
         "carto": "github:cartodb/carto#0.15.1-cdb5",
         "cartodb-psql": "^0.14.0",
         "cartodb-query-tables": "^0.6.1",
